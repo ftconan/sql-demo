@@ -1,2 +1,5 @@
 # sql-demo
-SQLite MySQL PgSQL SQLserver
+1. SQLite 
+2. MySQL 
+3. PgSQL 
+4. SQLserver
